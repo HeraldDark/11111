@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <iomanip>
-#include <cmath>  // Для использования sqrt() и abs()
+#include <cmath>  
 #include "windows.h"
 
 using namespace std;
